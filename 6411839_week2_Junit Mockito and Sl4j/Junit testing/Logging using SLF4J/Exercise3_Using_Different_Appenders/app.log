@@ -1,0 +1,4 @@
+19:56:12.367 [main] DEBUG org.example.AppenderExample - Debug message - useful for debugging during development.
+19:56:12.370 [main] INFO  org.example.AppenderExample - Info message - general application information.
+19:56:12.372 [main] WARN  org.example.AppenderExample - Warning message - something might be wrong.
+19:56:12.372 [main] ERROR org.example.AppenderExample - Error message - something definitely went wrong.

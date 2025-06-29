@@ -1,0 +1,5 @@
+# Created at 2025-06-29T19:31:04.237
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Junit Mockito and Sl4j\Mocking Dependencies in Spring Tests\Exercise3_Mocking_a_Service_Dependency_in_an_Integration_Test\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
